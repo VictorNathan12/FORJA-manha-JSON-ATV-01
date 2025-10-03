@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Travis Scott",
+    "HorasTrabalhadas": 298.05,
+    "Nota": 4.4,
+    "imagem": "../Imagens/Travis.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Orea Seca",
+    "HorasTrabalhadas": 340.95,
+    "Nota": 6.5,
+    "imagem": "../Imagens/OreaSeca.webp"
+  },
+  {
+    "id": 3,
+    "nome": "Metroman",
+    "HorasTrabalhadas": 730.01,
+    "Nota": 10.0,
+    "imagem": "../Imagens/MetroMan.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "NeymarJR",
+    "HorasTrabalhadas": 489.23,
+    "Nota": 5.4,
+    "imagem": "../Imagens/Neymar.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Arnold Schwarzenegger",
+    "HorasTrabalhadas": 721.39,
+    "Nota": 9.9,
+    "imagem": "../Imagens/Arnold.webp"
+  },
+  {
+    "id": 6,
+    "nome": "Bob Esponja",
+    "HorasTrabalhadas": 721.3,
+    "Nota": 9.9,
+    "imagem": "../Imagens/BobEsponja.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Leonardo DiCaprio",
+    "HorasTrabalhadas": 532.54,
+    "Nota": 8.9,
+    "imagem": "../Imagens/Leonardo.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Adam Sandler",
+    "HorasTrabalhadas": 632.23,
+    "Nota": 9.6,
+    "imagem": "../Imagens/Adam.jpg"
+  }
+]
